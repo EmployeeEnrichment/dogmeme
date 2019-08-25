@@ -147,7 +147,7 @@
 		},
         {
 			name: "img7",
-			img: "img/img7.jpg",
+			img: "img/img7.png",
 			id: 7
 		},
         {
